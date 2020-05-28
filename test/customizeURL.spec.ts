@@ -15,7 +15,7 @@ const testURIs: object = {
     mobile : "https://m.search.naver.com/search.naver?sm=top_hty&fbm=1&ie=utf8&query=Whale+Browser+Sync"
   },
   NaverShoppingSearch : {
-    desktop : "https://search.shopping.naver.com/search/all.nhn?query=vitamin",
+    desktop : "https://search.shopping.naver.com/search/all?query=vitamin",
     mobile : "https://msearch.shopping.naver.com/search/all?query=vitamin"
   },
   NaverPlace : {

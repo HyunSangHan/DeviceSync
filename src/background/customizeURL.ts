@@ -14,7 +14,7 @@ export const serviceDomains: object = {
   navershoppingsearch: {
     desktopHost: "search.shopping.naver.com",
     mobileHost: "msearch.shopping.naver.com",
-    desktop: "search.shopping.naver.com/search/all.nhn",
+    desktop: "search.shopping.naver.com/search/all",
     mobile: "msearch.shopping.naver.com/search/all"
   },
   naverplace: {
